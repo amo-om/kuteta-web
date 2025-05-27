@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Noto Serif Dives Akuru",
-        body: "Noto Serif Dives Akuru",
+        body: "Zain",
         code: "Noto Serif Dives Akuru",
       },
       colors: {
