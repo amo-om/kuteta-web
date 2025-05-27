@@ -1,9 +1,12 @@
 {{date:YYYY-MM-DD}}  
 {{time:HH:mm}}
 
----
-- Meaning: 
-- Part of Speech: 
-- Root (if any): 
-- Example: ** = “”
-- Notes: 
+**IPA**: []
+- **Meaning**: 
+- **Part of speech**: 
+- **Morphology**: 
+- **Forms/Variants**: 
+- **Example**:  
+  - *[sentence in Kuteta]*  
+    → "[English translation]"
+- **Related**: 

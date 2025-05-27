@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Noto Serif Dives Akuru",
+        body: "Noto Serif Dives Akuru",
+        code: "Noto Serif Dives Akuru",
       },
       colors: {
         lightMode: {

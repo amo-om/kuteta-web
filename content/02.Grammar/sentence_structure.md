@@ -45,46 +45,14 @@ Verbs are built like **[ROOT] + [Tense] + (Aspect) + (Mood/Politeness)**
 
 ---
 
-# **First Root Words** (nouns & verbs)
-## Core Nouns
-
-| English  | Kuteta        | IPA                    | Notes / Design Intent         |
-| -------- | ------------- | ---------------------- | ----------------------------- |
-| person   | **[[oremi]]** | [o.ɾe.mi] or [o.le.mi] | Soft, human-like; poetic feel |
-| fire     | **[[nako]]**  | [na.ko]                | Strong, open;                 |
-| water    | **[[nïsu]]**  | [nɨ.su]                | Soft liquid flow              |
-| house    | **[[kana]]**  | [ka.na]                | Stable, symmetric, homey      |
-| tree     | **[[selo]]**  | [ʃe.lo] or [ʃe.ɾo]     | Organic and leafy             |
-| sky      | **[[tuwen]]** | [tu.wen] or [tɯ.wen]   | Light-sounding                |
-| moon     | **[[lenun]]** | [le.nun]               | Soft, smooth                  |
-| cat      | **[[nemi]]**  | [ne.mi]                | Small, cute, agile            |
-| eye      | **[[meni]]**  | [me.ni]                | Felt right                    |
-| sun      | **[[toya]]**  | [to.ja]                | Rising?                       |
-| language | **[[kute]]**  | [ku.te]                | Not much intent               |
-
-## Core Verbs
-
-| English  | Kuteta        | IPA                | Notes / Design Intent                           |
-| -------- | ------------- | ------------------ | ----------------------------------------------- |
-| to be    | **[[se]]**    | [se]               | Simple                                          |
-| to have  | **[[iru]]**   | [i.ɾu]             | Fluid and present                               |
-| to eat   | **[[nami]]**  | [na.mi]            | Mimics mouth movement                           |
-| to see   | **[[miya]]**  | [mi.ja]            | Bright                                          |
-| to hear  | **[[kuni]]**  | [ku.ni]            | Suggests internal awareness                     |
-| to go    | **[[saku]]**  | [sa.ku]            | Active; evokes stepping (sa-ku, sa-ku)          |
-| to speak | **[[kulo]]**  | [ku.lo]            | Rounded and voiced                              |
-| to sleep | **[[nora]]**  | [no.ɾa] or [no.la] | Calm and soft; lull-like rhythm (as if snoring) |
-| to make  | **[[tari]]**  | [ta.ɾi] or [ta.li] | Firm yet constructive                           |
-| to sing  | **[[dusel]]** | [du.sel]           | Melodic                                         |
-
----
 # Basic Sentence Template
 **[Subject] *li* [Object] *na* [Verb-Chain].**
 
 - **li** → topic marker (optional for subject)
 - **na** → object marker
 - **Verb-Chain** → root + suffixes for tense/aspect/politeness/etc.
->[!info] Example:  
+
+>[!quote] Example:  
 >**oremi li nemi na miya-ta-mi.**
 _The person respectfully saw the cat._
 
