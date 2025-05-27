@@ -88,15 +88,4 @@ Verbs are built like **[ROOT] + [Tense] + (Aspect) + (Mood/Politeness)**
 >**oremi li nemi na miya-ta-mi.**
 _The person respectfully saw the cat._
 
-
-
----
-# Future Additions (after script is finalised)
-- Plurality
-- Adjective & Adverb modifiers
-- Complex/compound sentences
-- Relative clauses 
-- Politeness forms, honorifics, and mood
-- Commands & imperatives
-
 [^1]: English uses SVO: I (subject) kicked (verb) the ball (Object)
