@@ -7,7 +7,20 @@ socialDescription: Kuteta is a constructed language (conlang). It's mainly inspi
 - Purpose: I got bored when summer break started so I picked this up as a project, that I hopefully will not give up.
 - Traits: TBD
 	- All written words in Kuteta are Romanized
-
+# To-Do
+- [ ] Develop more Grammar
+	- [ ] Plurality
+	- [ ] Adjective & Adverb modifiers
+	- [ ] Complex/compound sentences
+	- [ ] Relative clauses
+	- [ ] Politeness forms, honorifics, and mood
+	- [ ] Commands & imperatives
+- [ ] Create syllabic glyphs
+- [ ] Create phonemic alphabet (based on glyph & roman letters)
+- [ ] Develop a more in-depth lexicon
+- [ ] Create custom fonts for all writing systems
+- [ ] Translate poems, stories, quotes, etc. (based on reccomendation)
+ 
 
 
 

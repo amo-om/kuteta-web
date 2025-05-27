@@ -61,8 +61,10 @@ Vowel Inventory: i, ɨ, ə, u, ɯ, e, o, a, ɜ, y
 
 
 [^1]: This means when /s/ comes directly before /i/, it’s pronounced as [ʃ].
+
 [^2]: Either sound is acceptable between vowels; speaker choice or dialectal, meant to add some natural variation
-[^3]: When /u/ ends a syllable that also ends in a consonant, it’s changed to [ɯ].
+
+[^3]: When /u/ is in a syllable that ends in a consonant, it’s pronounced as [ɯ].
 
 [^4]: Between vowels, /b/ surfaces as a **bilabial trill [ʙ]**
 
