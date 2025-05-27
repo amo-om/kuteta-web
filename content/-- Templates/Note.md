@@ -1,6 +1,6 @@
 ---
-tags:
+tags: 
+date: {{date:YYYY-MM-DD}}
 ---
-{{date:YYYY-MM-DD}}  
 {{time:HH:mm}}
 Links:

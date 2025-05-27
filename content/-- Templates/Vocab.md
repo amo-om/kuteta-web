@@ -1,6 +1,8 @@
-{{date:YYYY-MM-DD}}  
+---
+date:
+  "{ date:YYYY-MM-DD }":
+---
 {{time:HH:mm}}
-
 **IPA**: []
 - **Meaning**: 
 - **Part of speech**: 

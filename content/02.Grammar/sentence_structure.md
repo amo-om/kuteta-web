@@ -1,8 +1,8 @@
 ---
 tags:
   - developing
+date: 2025-05-26
 ---
-2025-05-26  
 9:42
 # Overview
 This Conlang uses **SOV word order**[^1] :   
