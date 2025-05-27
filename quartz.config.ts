@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Kuteta",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "kuteta-web.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -89,7 +89,12 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      Plugin.CustomOgImages({
+        colorScheme: "darkMode", // what colors to use for generating image, same as theme colors from config, valid values are "darkMode" and "lightMode"
+        width: 1200, // width to generate with (in pixels)
+        height: 630, // height to generate with (in pixels)
+        excludeRoot: false, // wether to exclude "/" index path to be excluded from auto generated images (false = use auto, true = use default og image)
+      }),
     ],
   },
 }
