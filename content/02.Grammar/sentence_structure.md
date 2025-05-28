@@ -36,7 +36,6 @@ Verbs are built like **[ROOT] + [Tense] + (Aspect) + (Mood/Politeness)**
 | Politeness | Respectful     | **-[[mi]]**    | [mi] | Used to address older people / imply intent |
 | Negation   | Negative       | **[[ne\|a]]-** | [a]  | Prefix (optional **ne** as word)            |
 
-
 >[!info] Verb example breakdown:
 > - **dusel** = to sing
 > - **dusel-ta** = sang

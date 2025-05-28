@@ -27,7 +27,7 @@ Vowel Inventory: i, ɨ, ə, u, ɯ, e, o, a, ɜ, y
 | e     | a       | o    |
 | **y** |         |      |
 # Syllable Structure
-**(C)(G)V(C)(N)**
+**(C)(G)V(C/N)**
 - C = any consonant
 - G = optional glide (/j/ or /w/)
 - V = any vowel
