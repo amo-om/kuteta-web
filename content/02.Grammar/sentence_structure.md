@@ -9,7 +9,8 @@ This Conlang uses **SOV word order**[^1] :
 **Subject – Object – Verb**
 
 Particles and suffixes define grammatical roles and verb features. Word order is relatively strict, especially for core clauses.
-# **Particles** 
+
+# **Particles**
 
 | Function     | Particle            | IPA        | Notes                                              |
 | ------------ | ------------------- | ---------- | -------------------------------------------------- |
