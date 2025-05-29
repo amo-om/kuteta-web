@@ -86,7 +86,7 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndexMap, limit?:
       <description>${!!limit ? i18n(cfg.locale).pages.rss.lastFewNotes({ count: limit }) : i18n(cfg.locale).pages.rss.recentNotes} on ${escapeHTML(
         cfg.pageTitle,
       )}</description>
-      <generator>Quartz -- kuteta-web.vercel.app/</generator>
+      <generator>Quartz -- amo-om.github.io/kuteta-web</generator>
       ${items}
     </channel>
   </rss>`

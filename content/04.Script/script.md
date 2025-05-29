@@ -5,34 +5,34 @@ date: 2025-05-26
 ---
 12:43
 
-Kuteta has a flexible and stylised writing system based on **circles and lines, inspired by Thai, Tibetan, Malayalam, & Hangul scripts**. It supports both **block-style** (syllabic fusion) and **linear** (alphabetic) forms, enabling different forms of expression, clarity, and visual appeal. [^3] ^a7b879
+Kuteta has a flexible and stylised writing system based on **circles and lines, inspired by Thai, Tibetan, Malayalam, & Hangul scripts**. It supports both **block-style** (syllabic fusion) and **linear** (alphabetic) forms, enabling different forms of expression and visual appeal. [^3] ^a7b879
 
 
 # Glyphs[^4]
 ## Consonants
 
-| Phoneme | Glyph |
-| ------- | ----- |
-| /p/     |       |
-| /b/     |       |
-| /t/     |       |
-| /d/     |       |
-| /k/     |       |
-| /g/     |       |
-| /m/     |       |
-| /n/     |       |
-| /ŋ/     |       |
-| /s/     |       |
-| /ʃ/     |       |
-| /h/     |       |
-| /ts/    |       |
-| /tʃ/    |       |
-| /d͡ʑ/   |       |
-| /ʙ/     |       |
-| /l/     |       |
-| /ɾ/     |       |
-| /j/     |       |
-| /w/     |       |
+| Phoneme | Glyph      |
+| ------- | ---------- |
+| /p/     | ![[p.svg]] |
+| /b/     | ![[b.svg]] |
+| /t/     | ![[t.svg]] |
+| /d/     | ![[d.svg]] |
+| /k/     | ![[k.svg]] |
+| /g/     | ![[g.svg]] |
+| /m/     | ![[m.svg]] |
+| /n/     |            |
+| /ŋ/     |            |
+| /s/     |            |
+| /ʃ/     |            |
+| /h/     |            |
+| /ts/    |            |
+| /tʃ/    |            |
+| /d͡ʑ/   |            |
+| /ʙ/     |            |
+| /l/     |            |
+| /ɾ/     |            |
+| /j/     |            |
+| /w/     |            |
 ## Vowels
 
 | Phoneme | Glyph |
@@ -98,6 +98,13 @@ Kuteta uses **agglutinative affixes**, especially suffixes. These are handled as
 - Paragraph / Section Break
 	- Symbol: Large ◎
 	- Use: New thought, dialogue, or scene
+---
+My notes in my journal as I was coming up with this system:
+![[kuteta_alphabet.pdf]]
+
+
+
+
 
 
 [^1]: In the case of CVC, the second consonant is placed on top of the vowel

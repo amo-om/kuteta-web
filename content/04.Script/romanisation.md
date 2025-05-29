@@ -37,9 +37,9 @@ The romanisation is:
 | /w/   | w         |                             |
 # Vowel Romanisation
 
-|     |           |     |
-| --- | --------- | --- |
+
 | IPA | Romanised |     |
+| --- | --------- | --- |
 | /i/ | i         |     |
 | /ɨ/ | ii        |     |
 | /ə/ | e         |     |
@@ -52,9 +52,9 @@ The romanisation is:
 | /y/ | ÿ or uy   |     |
 # Examples
 
-|              |           |                 |
-| ------------ | --------- | --------------- |
+
 | Native (IPA) | Romanised | Meaning         |
+| ------------ | --------- | --------------- |
 | [ɾe.mi]      | remi      | "person"        |
 | [le.nun]     | lenun     | "moon"          |
 | [du.sel]     | dusel     | "to sing"       |
@@ -73,4 +73,4 @@ The romanisation is:
 - **ae** = /ɜ/, open-mid central vowel
 - **ÿ** or **uy** = /y/, front rounded vowel
 
-[^1]: I would recommend visiting the [[phonemes]] page before this
+[^1]: I would recommend visiting the [[phonemes]] page before proceeding further this
