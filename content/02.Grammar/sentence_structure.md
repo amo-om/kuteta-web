@@ -4,6 +4,7 @@ tags:
 date: 2025-05-26
 ---
 9:42
+
 # Overview
 This Conlang uses **SOV word order**[^1] :   
 **Subject – Object – Verb**
@@ -56,4 +57,4 @@ Verbs are built like **[ROOT] + [Tense] + (Aspect) + (Mood/Politeness)**
 >**oremi li nemi na miya-ta-mi.**
 _The person respectfully saw the cat._
 
-[^1]: English uses SVO: I (subject) kicked (verb) the ball (Object)
+[^1]: English uses SVO: I (subject) kicked (verb) the ball (object). SOV is “written” as: SOV I (subject) ball (object) kicked (verb)

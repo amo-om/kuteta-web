@@ -4,6 +4,7 @@ tags:
 date: 2025-05-25T19:39:00
 ---
 19:39
+
 # Consonants
 Consonant Inventory: p, b, t, d, k, g, m, n, ŋ, s, ʃ, h, ts, tʃ, l, ɾ, j, w, d͡ʑ, ʙ
 

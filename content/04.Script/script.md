@@ -4,7 +4,50 @@ tags:
 date: 2025-05-26
 ---
 12:43
+
 Kuteta has a flexible and stylised writing system based on **circles and lines, inspired by Thai, Tibetan, Malayalam, & Hangul scripts**. It supports both **block-style** (syllabic fusion) and **linear** (alphabetic) forms, enabling different forms of expression, clarity, and visual appeal. [^3] ^a7b879
+
+
+# Glyphs[^4]
+## Consonants
+
+| Phoneme | Glyph |
+| ------- | ----- |
+| /p/     |       |
+| /b/     |       |
+| /t/     |       |
+| /d/     |       |
+| /k/     |       |
+| /g/     |       |
+| /m/     |       |
+| /n/     |       |
+| /ŋ/     |       |
+| /s/     |       |
+| /ʃ/     |       |
+| /h/     |       |
+| /ts/    |       |
+| /tʃ/    |       |
+| /d͡ʑ/   |       |
+| /ʙ/     |       |
+| /l/     |       |
+| /ɾ/     |       |
+| /j/     |       |
+| /w/     |       |
+## Vowels
+
+| Phoneme | Glyph |
+| ------- | ----- |
+| /i/     |       |
+| /e/     |       |
+| /a/     |       |
+| /o/     |       |
+| /u/     |       |
+| /ɯ/     |       |
+| /ɨ/     |       |
+| /ə/     |       |
+| /ɜ/     |       |
+| /y/     |       |
+
 # Script Forms
 ## **Block-Style Script**
 - Each syllable is written as a **glyph block**.
@@ -62,3 +105,5 @@ Kuteta uses **agglutinative affixes**, especially suffixes. These are handled as
 [^2]: Only use if -ke is not enough
 
 [^3]: This form of script also opens the path for different ways of writing, whether that be up & down, left to write, or arranging letters in a large circle (I might actually modify it to make circular form possible/more easier)
+
+[^4]: Will be added upon as I develop the .svg files

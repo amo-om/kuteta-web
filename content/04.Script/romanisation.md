@@ -4,9 +4,8 @@ tags:
 date: 2025-05-28
 ---
 14:42
-Relevant Notes:
 
-This document outlines the official **romanisation system** for the Kuteta language. It provides a consistent and readable way to write Kuteta using the Latin alphabet, primarily for digital use, typing, and accessibility.
+This document outlines the official **romanisation system** for the Kuteta language. It provides a consistent and readable way to write Kuteta using the Latin alphabet, primarily for digital use, typing, and accessibility.[^1]
 
 The romanisation is:
 - **Phonemic** (one letter or digraph per phoneme)
@@ -73,3 +72,5 @@ The romanisation is:
 - **ii**, **uu**, **ee** = high/long or centralised vowels
 - **ae** = /ɜ/, open-mid central vowel
 - **ÿ** or **uy** = /y/, front rounded vowel
+
+[^1]: I would recommend visiting the [[phonemes]] page before this
